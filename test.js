@@ -6,6 +6,6 @@ function calc()
     }
     else
     {
-        document.getElementById("result").value=document.getElementById("beforetax").value*0.5;
+        document.getElementById("result").value=0;
     }
 }
