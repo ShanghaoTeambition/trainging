@@ -7,5 +7,6 @@ function calc()
     else
     {
         document.getElementById("result").value=5;
+        //555555
     }
 }
