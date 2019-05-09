@@ -6,6 +6,6 @@ function calc()
     }
     else
     {
-        document.getElementById("result").value=0;
+        document.getElementById("result").value=5;
     }
 }
